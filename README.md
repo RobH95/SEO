@@ -1,5 +1,6 @@
 # challenge1SEO
 
+* [Description](#description)
 * [Purpose](#purpose)
 * [Usage](#usage)
 * [Credits](#credits)
